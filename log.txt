@@ -1,0 +1,17 @@
+Request received at 1741958309507: GET /shopping-list
+Request received at 1741958357430: POST /shopping-list
+Request received at 1741958426505: GET /shopping-list
+Request received at 1741958479932: GET /shopping-list
+Request received at 1741958524457: GET /shopping-list
+Request received at 1741958578692: GET /shopping-list
+Request received at 1741958611985: GET /shopping-list
+Request received at 1741958697955: GET /shopping-list
+Request received at 1741959634425: GET /shopping-list
+Request received at 1741959749171: GET /shopping-list
+Request received at 1741959800888: GET /shopping-list
+Request received at 1741959849704: GET /shopping-list
+Request received at 1741959980752: GET /shopping-list
+Request received at 1741960223186: GET /shopping-list
+Request received at 1741960394019: GET /shopping-list
+Request received at 1741960551811: GET /shopping-list
+Request received at 1741960633082: GET /shopping-list
